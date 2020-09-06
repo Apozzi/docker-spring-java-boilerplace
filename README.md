@@ -1,4 +1,4 @@
-# How to run spring boot backend.
+## How to run spring boot backend.
 
 mvn spring-boot:run
 
